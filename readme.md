@@ -1,3 +1,4 @@
+# ![Benchmarking](benchmarking.png)
 # AIRS — AI Intelligent Retrieval System
 
 Local semantic retrieval project that compares two strategies:
