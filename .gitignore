@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.tox/
+.coverage
+.mypy_cache/
+.pytest_cache/
+.pylint.d/
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Database and local data
+uploaded_pdfs/
+*.sqlite3
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
